@@ -1,0 +1,302 @@
+Nom,résumé,relation
+ChatGPT, L'IA conversationnelle référence pour trouver réponse à vos questions mais aussi pour créer des,"A1, A2, A3, B1, B2, B3, C1, C2, C3"
+MidJourney,L'IA d'imagerie de référence. Décrivez le visuel que vous souhaitez générer et l'IA vous propose une,"A1, A3, B2, B3"
+LLaMa Chat,Le ChatGPT de Facebook,"A1, A3, B1, B2, B3"
+Automorphic,Plateforme axée sur la protection de la vie privée dans les applications d'intelligence artificielle.,C1
+Stable Doodle,,C1
+AI Companion,"Assistant personnel IA conçu pour fournir des conversations naturelles, aider à organiser les tâches quotidiennes et répondre aux requêtes.",A1
+Wonder Dynamics,,C1
+Heygen,générateur de vidéo,A3
+Dora AI,Outil d'IA conversationnelle avancée pour la gestion des requêtes et des services d'information dans divers contextes.,C1
+Movie Deep Search,,C1
+OpenLLM,Le Consortium OpenLLM France réunit 17 acteurs qui se sont rassemblés dans le prolongement de la création de la communauté OpenLLM France qui fédère à ce jour un écosystème de près de 200 entités.,C1
+http://maxai.me (ex-UseChat AI),Assistant IA conçu pour répondre à des questions et automatiser des tâches à travers une interface conversationnelle,C1
+Liftoff Interview,Outil d'IA conçu pour simuler des entretiens professionnels et offrir des recommandations personnalisées pour améliorer les réponses.,"A1, A2, B1, C2"
+Framer AI,Outil d'IA qui permet de concevoir rapidement des interfaces utilisateur et des prototypes à partir de descriptions textuelles.,C1
+Uncrop,Outil d'IA qui permet de recadrer intelligemment les images et d'étendre les bords d'une image en générant du contenu,"A3, C1"
+SuperAGI,"Plateforme d'IA conçue pour créer des agents autonomes capables d'effectuer des tâches complexes sans supervision.""",C1
+InternGPT,Assistant IA autonome capable d'exécuter des tâches de gestion de projet et de fournir des recommandations intelligentes.,C1
+LocalGPT,Chatbot IA local qui traite les données et résume des documents directement sur la machine sans connexion Internet.,"A1, A3, C1"
+Simpler,Outil d'IA pour simplifier et automatiser la gestion de documents et de tâches administratives.,C1
+Shot Rate,Outil d'IA pour la création de storyboards et de séquences de prise de vue pour les films et vidéos.,C1
+LLM Report,Chatbot généré par IA conçu pour résumer et interpréter des rapports longs ou complexes.,"A1, A3, C1"
+BacklinkGPT,"Outil d'IA qui génère du contenu optimisé pour le SEO et les backlinks, aidant à améliorer la visibilité des blogs et sites web.",C1
+Olvy,Plateforme d'IA permettant de recueillir et d'analyser les retours utilisateurs pour améliorer les produits et services.,C1
+MarkDX,"Outil d'IA pour la rédaction d'articles scientifiques et de blogs, avec un focus sur l'optimisation du contenu et la clarté.",A1
+Uncody,Outil IA conçu pour générer du code propre et documenté à partir de simples instructions en langage naturel,C1
+Clipdrop,"Plateforme d'édition d'images basée sur l'IA, permettant aux utilisateurs de créer, éditer et améliorer des images grâce à des outils IA.",A3
+codeamigo,"Outil d'assistance au développement offrant des recommandations de code, des exemples et des conseils pour les développeurs",C1
+SciSummary,Outil d'IA spécialisé dans le résumé d'articles scientifiques et techniques.,"A1, A2, A3"
+Learning Studio AI,Plateforme d'apprentissage assistée par IA pour créer des expériences d'apprentissage personnalisées et interactives.,"A1, A2, A3, C2"
+CourseAI,"Plateforme d'apprentissage assistée par IA, permettant de concevoir et suivre des cours personnalisés et interactifs.","A1, A2, B1, B2, B3, C2"
+ Writers brew ,"Assistant d'écriture IA conçu pour rédiger des textes dans divers formats, de manière rapide et fluide.",C1
+CreateChatApp,Plateforme de création d'applications de chatbot permettant aux utilisateurs de concevoir des bots personnalisés pour diverses tâches.,C1
+ Cyte ,"Outil d'IA pour capturer et organiser des informations provenant de diverses sources, optimisé pour la gestion de données.","A1, A2, B1, C3"
+ChatHub,"Plateforme permettant de gérer et d'interagir avec plusieurs chatbots sur une seule interface, centralisant les communications.",C1
+easywithai (ex-useChatGPT),Extension permettant d'intégrer ChatGPT dans des applications et plateformes pour améliorer les capacités conversationnelles.,C1
+ Langdock ,Outil d'IA permettant de créer des agents conversationnels personnalisés à partir de modèles de langage naturel.,C1
+ChatALL,Chatbot permettant de centraliser plusieurs plateformes de chat dans une seule interface pour gérer les interactions à partir d'un seul endroit.,C1
+Zoo Replicate,"Plateforme IA pour générer des images à partir de modèles d'art open-source, permettant de répliquer des styles visuels",C1
+ Voicify ,Plateforme IA permettant de créer des voix off et des narrations personnalisées à partir de texte,A3
+elevenlabs,générateur d’audio. fonctionne bien de pair avec Heygen (https://www.notion.so/Heygen-11aba3cbb32781ef80ead3a60dae6ff9?pvs=21) ,"A1, A3, C1"
+ PrivateGPT ,"Chatbot IA local conçu pour interagir avec des documents et fournir des résumés, tout en préservant la confidentialité des données.","A1, A3"
+ GeneratedBy ,Outil d'IA dédié à la création automatique de contenus visuels à partir de prompts textuels.,A3
+ Quivr ,"Assistant IA conçu pour interagir avec des documents complexes, fournir des résumés et répondre à des questions.","A1, A2, A3"
+ Help.center ,"Assistant IA spécialisé dans le support client, permettant de répondre automatiquement aux requêtes des utilisateurs.",C1
+ Folk CRM ,Outil CRM assisté par IA permettant de gérer et organiser les relations clients avec des fonctionnalités automatisées.,C1
+ PDF.ai ,"Chatbot IA conçu pour interagir avec des documents PDF, répondre à des questions et fournir des résumés.","A1, A2, A3"
+ EnhanceDocs ,Outil d'IA qui améliore les documents en résumant les informations clés et en offrant des réponses basées sur le contenu.,"A1, A2, A3"
+Dream3D,Outil d'IA permettant de générer des modèles et des scènes en 3D à partir de simples descriptions textuelles.,C1
+ChatBotKit,"Plateforme de développement pour créer, tester et déployer des chatbots dans divers environnements, adaptée aux développeurs.",C1
+ AutoTrain ,"Outil d'IA conçu pour automatiser l'entraînement des modèles de machine learning, facilitant la création de modèles sans expertise approfondie.",C1
+ PaletteBrain ,Assistant IA spécialisé dans la création de palettes de couleurs et l'optimisation des designs visuels.,C1
+ Mendable ,Chatbot IA capable de résumer des informations techniques et de répondre à des requêtes en temps réel.,C1
+DeepFloyd IF,Modèle IA permettant de générer des images à partir de texte et d'interagir via un chatbot pour affiner la création.,A3
+ StableVicuna ,"Modèle IA conversationnel basé sur le modèle LLaMa, conçu pour des tâches de chatbot plus complexes.","A1, A3"
+DeepMotion,Outil d'animation IA qui convertit des mouvements humains en animations 3D réalistes.,C1
+ ReaderGPT ,"Chatbot IA qui résume des articles longs et des documents, facilitant la lecture et la compréhension.","A1, A3"
+ SiteGPT ,Chatbot IA permettant d'intégrer des fonctionnalités conversationnelles sur des sites web pour fournir des réponses automatiques.,C1
+ HuggingChat ,Chatbot open-source développé par Hugging Face pour des conversations naturelles et l'exploration de données.,"A1, A3, B1, B2, B3"
+Fontjoy,Une plateforme qui permet d'associer des typographies grâce au deep learning.,C1
+ Fronty ,Outil de développement qui permet de convertir des designs en HTML et CSS à l'aide de l'IA,C1
+Khroma,Assistant IA pour la création de palettes de couleurs basées sur les préférences de l'utilisateur et l'esthétique visuelle.,C1
+ VisualEyes ,Outil IA conçu pour analyser les conceptions visuelles et optimiser l'expérience utilisateur à partir de données analytiques.,C1
+ Debuild ,Assistant IA pour la création d'interfaces utilisateur en codant automatiquement à partir de descriptions.,C1
+ Godmode ,Assistant IA qui automatise des tâches complexes de développement tout en offrant des fonctionnalités de chatbot,C1
+ AI Playground Vercel ,Plateforme de développement interactive permettant de tester des modèles d'IA et des agents conversationnels en temps réel.,C1
+BlueWillow,Générateur d'images basé sur l'IA et chatbot capable de créer des visuels à partir de descriptions textuelles tout en engageant des conversations pour affiner les créations.,A3
+ Yeager ,Assistant IA conçu pour automatiser des conversations dans le cadre du service client ou de la gestion de tâches quotidiennes,C1
+ TensorFlow ,Plateforme open-source d'apprentissage automatique utilisée pour construire et entraîner des modèles IA avancés.,C1
+ Jasper ,"Une IA qui vous permet de rédiger des textes pour vos publicités (Google, Facebook...) ou pour des",C1
+ Claude ,"Claude AI, ou Claude 2, développé par Anthropic, est un chatbot d'intelligence artificielle capable de gérer des requêtes complexes et de fournir des réponses précises en fonction du contexte.","A1, A3, B1, B2, B3"
+ Baize ,"Chatbot open-source formé pour assister dans diverses tâches conversationnelles, optimisé pour des applications personnalisées.","A1, A2"
+ GPT4All ,Modèle open-source de chatbot conçu pour exécuter des tâches de conversation en utilisant GPT dans des environnements locaux.,"A1, A3, B1, B2, B3"
+ Bloomz & MT0 ,"Modèle multilingue de chatbot conçu pour comprendre et générer du texte en plusieurs langues, avec une spécialisation dans les tâches de traduction et de conversation.","A1, A3, B1, B3, C1"
+ Pytorch ,"Bibliothèque open-source dédiée au machine learning et au deep learning, utilisée pour construire et entraîner des modèles IA.",C1
+ Open Assistant ,Chatbot IA open-source conçu pour fournir des réponses complètes et des résumés à partir de textes longs.,"A1, A3"
+Filechat,"Outil d'IA qui permet de poser des questions sur des fichiers et de recevoir des résumés instantanés, facilitant la compréhension rapide des documents.","A1, A2, A3"
+Vectorizer,Outil d'IA qui convertit des images en graphiques vectoriels pour une utilisation dans le design et l'impression.,C1
+DreamStudio,"Outil IA de création artistique développé par Stability AI, permettant de générer des images à partir de texte.",A3
+ Augie ,Outil de création vidéo basé sur l'IA permettant de générer rapidement des vidéos courtes à partir de descriptions ou de scénarios simples.,A3
+Rewind,"Outil d'IA pour capturer des réunions et des conversations audio, générant des résumés et des transcriptions.","B1, B2, B3"
+ Cognosys ,Assistant IA polyvalent qui combine des fonctionnalités de développement et de chatbot pour automatiser des tâches complexes.,C1
+Leap,Outil d'IA pour la création d'art numérique généré à partir de descriptions textuelles et d'images de référence.,C1
+ Raycast AI ,Assistant IA permettant d'automatiser des tâches sur macOS via des commandes et des intégrations intelligentes.,C1
+ SuperPower ChatGPT ,Extension pour ChatGPT qui améliore les capacités de personnalisation et d'interaction avec les utilisateurs.,C1
+Runway,Plateforme d'IA dédiée à la création et à l'édition de vidéos et d'images à l'aide de modèles IA avancés.,C1
+ Character.ai ,génère des conversations entre vous et des personnages célèbres ou fictifs grâce à l'IA.,"A1, A2, B3"
+Adept,Un chatbot conçu pour faciliter les tâches complexes en assistant les utilisateurs dans la gestion et l'automatisation.,C1
+ BabyAGI ,Agent d'IA autonome conçu pour accomplir des tâches complexes et apprendre de manière autonome avec un focus sur le développement logiciel.,C1
+ Flowise ,Plateforme d'IA permettant la création de flux de travail automatisés à l'aide de modèles d'intelligence artificielle.,C1
+Gptify,"Assistant IA permettant de gérer et automatiser des tâches en ligne via un chatbot, conçu pour améliorer la productivité.",C1
+Opus,Outil d'IA permettant de créer des modèles 3D et des animations à partir de descriptions textuelles et d'images de référence.,C1
+ Databerry ,Outil d'IA conçu pour interroger et extraire des données à partir de diverses bases de données à l'aide de langages naturels.,C1
+ AgentGPT ,Agent d'intelligence artificielle autonome capable d'exécuter des tâches de développement en générant du code et en répondant à des requêtes complexes.,C1
+ IFTTT AI ,Service IA qui permet d'automatiser des tâches en connectant différentes applications via des workflows simples.,C1
+Langflow,Plateforme visuelle qui permet de concevoir des flux de travail IA en connectant des modèles de langage et des processus automatisés.,C1
+ LMQL ,Langage de requête optimisé pour interroger des modèles de langage IA tels que GPT et LLaMa.,C1
+ Pinecone ,Plateforme IA permettant de créer et interroger des bases de données vectorielles pour la gestion et la recherche de données.,C1
+OnlineFormaPro,Plateforme LMS intégrant des entrainements d’apprentissage des langues par l’IA,"A2, B1"
+ Weaviate ,"Moteur de recherche vectoriel basé sur l'IA permettant de stocker, rechercher et gérer des données sous forme vectorielle.",C1
+ Llama Hub ,,C1
+ Chroma ,Bibliothèque open-source pour l'indexation et la recherche de données optimisées pour les modèles d'IA.,"A1, A3, B2, B3, C1"
+FAISS,Bibliothèque IA conçue pour la recherche efficace dans des ensembles de données volumineux et la gestion des vecteurs.,C1
+ChatORG,"Outil d'organisation qui utilise un chatbot pour gérer et structurer les tâches, les rendez-vous et les projets.","B2, B3"
+CivitAI,"Plateforme dédiée au partage de modèles d'art IA, où les utilisateurs peuvent découvrir et télécharger des modèles générés par l'IA.",A3
+ Typebot ,Plateforme permettant de créer des chatbots personnalisés pour interagir avec les utilisateurs et automatiser les réponses.,C1
+ SublimeGPT ,Outil IA intégré à Sublime Text permettant d'utiliser GPT pour générer du code et automatiser des tâches de programmation.,C1
+ Auto-GPT ,"Agent d'IA autonome capable d'exécuter des tâches complexes sans supervision humaine, utilisé principalement pour le développement et les automatisations",C1
+ GPT Plugins ,xtensions pour GPT qui permettent d'ajouter des fonctionnalités supplémentaires aux modèles de traitement du langage naturel.,C1
+ Tome ,,C1
+ HeadShotPro ,Service basé sur l'IA permettant de créer des photos de profil professionnelles à partir de simples images ou photos.,C1
+ Jenni ,"Outil d'IA qui aide à rédiger des articles, des blogs, et à résumer des textes complexes pour un contenu clair et rapide.",C1
+ Ora ,Plateforme IA pour créer des chatbots personnalisés et les intégrer dans des applications et sites web.,C1
+ Bloop ,Assistant de développement qui aide les développeurs à naviguer dans les bases de code et à trouver des solutions à des problèmes de programmation.,C1
+ Flower ,Plateforme de fédération d'apprentissage qui permet aux modèles d'IA de s'entraîner sur des ensembles de données distribués tout en préservant la confidentialité.,C1
+ Helicone ,Plateforme permettant de suivre et d'optimiser les performances des modèles de chatbot en fournissant des analyses détaillées.,C1
+ Essense ,Assistant IA conçu pour résumer des textes longs et complexes en fournissant les points essentiels.,"A1, A2, A3"
+ Second ,"Assistant IA conçu pour les développeurs, facilitant la gestion de projets et l'optimisation du code.",C1
+Spline AI,Outil d'IA permettant de créer des objets et des scènes en 3D à partir de descriptions textuelles.,C1
+Scenario,Plateforme IA qui génère des images pour les jeux et permet d'interagir avec un chatbot pour affiner les créations.,C1
+ Perplexity ,"Outil IA qui répond aux requêtes en temps réel, avec des réponses optimisées basées sur des données pertinentes.","A1, A3, B1, B2, B3"
+Otter,"Outil d'IA pour capturer des discussions audio, générer des transcriptions et des résumés de réunions","A2, B1, B2, B3"
+ Llama CPP ,"Implémentation légère du modèle LLaMa qui permet d'exécuter des tâches conversationnelles sur des systèmes locaux.""",C1
+ Gamma ,générateur de pptx,"A1, A2, A3"
+Chatbot UI,"Interface utilisateur pour la création et la gestion de chatbots personnalisés, offrant une expérience conversationnelle intuitive.",C1
+ AI Code Translator ,Outil d'IA permettant de traduire et convertir du code entre différents langages de programmation.,C1
+ Tripnotes ,Outil d'IA permettant de générer des itinéraires de voyage personnalisés en fonction des préférences des utilisateurs.,C1
+ ShareGPT ,Plateforme permettant de partager des conversations avec des modèles de chatbot GPT et de les explorer publiquement,"A2, B1, B2, B3"
+Scribble Diffusion,Outil IA qui transforme des croquis en images détaillées à l'aide de modèles de diffusion.,A3
+ Opera AI Browser ,Navigateur web avec des fonctionnalités d'intelligence artificielle intégrées pour améliorer la navigation et la recherche.,A1
+ Markprompt ,Assistant IA conçu pour fournir des réponses instantanées à partir de documents et de bases de connaissances.,"A1, A2, A3"
+ Lexica Art ,Lexica est une base de données d'images générées par IA avec les prompts utilisés pour générer les,"A3, B3"
+ DomainsGPT ,Assistant IA spécialisé dans la génération de suggestions de noms de domaine pour les entreprises et projets.,C1
+Chat Explore,"Chatbot conçu pour explorer des bases de données et extraire des informations pertinentes en temps réel, facilitant les recherches conversationnelles",C1
+Canvas Krea AI,Outil de création artistique assisté par IA qui permet aux utilisateurs de concevoir des visuels et des illustrations en interagissant avec un chatbot.,"A3, C1"
+Bing Image Generator,"Générateur d'images basé sur l'IA développé par Microsoft, permettant de créer des images à partir de descriptions textuelles.",A3
+ Writesonic ,"Assistant IA pour rédiger, optimiser et résumer du contenu marketing et des articles de blog.",C1
+ Wizi ,Assistant IA pour les développeurs qui permet de générer du code et de gérer des projets complexes.,C1
+ Vondy ,"Assistant IA pour rédiger des textes longs, résumer des articles, et optimiser les contenus pour une meilleure lisibilité",C1
+Usechannel,"Outil d'IA pour la gestion et l'automatisation des canaux de communication en ligne, facilitant les interactions avec les utilisateurs.""",C1
+Upscale Media,Outil d'IA permettant d'améliorer la résolution et la qualité des images pour des usages professionnels ou créatifs.,C1
+ uizard Autodesigner ,Assistant IA qui génère automatiquement des interfaces et des designs à partir de descriptions textuelles.,C1
+ Tweetmonk ,Outil IA conçu pour rédiger et planifier des tweets et des threads optimisés pour une meilleure visibilité.,C1
+tl;dv,prise de note de réunions,"B1, B2"
+ Simplified ,"Outil d'IA tout-en-un pour la création de contenu, la rédaction, et le résumé de textes.",C1
+ Sidekick AI ,Assistant IA conçu pour automatiser la planification des rendez-vous et la gestion des tâches quotidiennes.,C1
+ Sendsteps ,Outil d'IA pour créer des présentations interactives et recueillir des retours en temps réel lors des événements.,A3
+ Rephrase AI ,"Outil d'IA permettant de générer des vidéos personnalisées à partir de texte, avec des avatars réalistes.",A3
+ RemoveBG ,Outil d'IA pour supprimer automatiquement l'arrière-plan des images.,C1
+ Quest ,Assistant de développement basé sur l'IA qui aide à la gestion des tâches complexes de codage et à l'automatisation des workflows.,C1
+ Publer ,"Outil d'IA permettant de planifier, rédiger et automatiser des publications sur les réseaux sociaux",C1
+Powermode,Assistant IA pour générer des présentations d'entreprise et des diaporamas de manière rapide et professionnelle.,A3
+Postwise,Outil d'IA qui aide à planifier et à rédiger du contenu pour les réseaux sociaux en optimisant les publications.,C1
+ Poised ,"Outil d'IA pour améliorer la performance lors de vidéoconférences, fournissant des conseils sur la présentation et la communication.","A1, A2"
+ Playground ,Outil de développement permettant de tester et interagir avec des modèles d'IA et de machine learning.,C1
+ Penman ,Assistant IA pour rédiger et résumer des textes complexes en fournissant des résultats clairs et concis.,"A1, A3, B1"
+OpenJourney,"Modèle IA basé sur la génération d'art à partir de texte, permettant de créer des illustrations numériques uniques.",C1
+ Murf AI ,Plateforme IA de synthèse vocale qui génère des voix humaines pour des projets audiovisuels et de narration.,A3
+ Movio ,Outil d'IA permettant de créer des vidéos générées à partir de texte avec des voix off réalistes.,A3
+ Markopolo ,"Assistant IA pour la rédaction de contenu marketing, résumant des informations complexes pour des campagnes efficaces.",C1
+Lucidpic,Générateur d'images IA qui permet de créer des avatars et des illustrations à partir de descriptions textuelles.,A3
+ Lovo ,"Outil de synthèse vocale qui génère des voix réalistes à partir de texte, utilisé dans les productions audio et vidéo.","A3, C1"
+ Longshot ,Longshot utilise l'IA pour rédiger un article en quelques minutes et produire un contenu,"A3, C1"
+Leia Inc,Technologie d'IA permettant de créer des images et vidéos en 3D à partir de contenus 2D,C1
+ KickResume ,Outil d'IA permettant de générer des CV et des lettres de motivation optimisés et personnalisés.,C1
+ Kaiber ,Outil d'IA permettant de créer des vidéos et des bandes sonores personnalisées à partir de descriptions ou de fichiers existants.,C1
+iA Net Presenter,"Outil de présentation assisté par IA, facilitant la création de diaporamas interactifs et visuels.",A3
+ Hypotenuse ,"Assistant IA spécialisé dans la rédaction de contenu optimisé pour les blogs et articles, facilitant la création rapide de texte.",C1
+ Hints ,Outil d'IA qui aide à rédiger et à résumer des textes longs en se concentrant sur les points essentiels et les idées principales.,"A1, A2, A3"
+ Gradio ,Outil d'IA permettant aux développeurs de créer des interfaces simples pour tester et déployer des modèles de machine learning.,C1
+ Google Talk to Books ,"Outil d'IA qui permet de poser des questions sur des livres et d'explorer des extraits pertinents, avec des résumés interactifs.","A1, A2, A3"
+Genmo, Une IA qui génère des vidéos grâce à du texte.,"A3, C1"
+ Frase ,"Assistant IA pour la création de contenu SEO optimisé pour les blogs, permettant de rédiger des articles et d'améliorer la visibilité",C1
+ Formula Generator ,Outil d'IA permettant de générer des formules mathématiques ou logiques à partir de descriptions textuelles.,"A1, A2, B1"
+Durable,"Outil d'IA conçu pour aider à créer des sites web rapidement, générant des pages optimisées et personnalisées",C1
+ Diagram ,Outil IA permettant de créer des diagrammes et des visualisations pour illustrer des idées complexes.,"A1, A2, A3"
+ Diagram Prototyper ,Outil d'IA conçu pour créer des prototypes interactifs de diagrammes et de flux de travail.,"A1, A2, A3"
+ Diagram Magician ,Assistant IA qui aide à concevoir des diagrammes complexes tout en fournissant des suggestions pour améliorer leur lisibilité.,"A1, A2, A3"
+ Diagram Genius ,"Outil IA intelligent qui génère des diagrammes à partir de concepts de manière instantanée, en optimisant la clarté et la précision.","A1, A2, A3"
+ Diagram Automator ,Plateforme d'IA qui automatise la création de diagrammes à partir de données ou d'instructions textuelles.,"A1, A2, A3"
+ Descript ,"Descript est un éditeur vidéo et podcast tout-en-un utilisant l'IA pour faciliter la création, comme rédiger",A3
+ DELV ,"Plateforme d'IA axée sur la découverte et la recherche de connaissances, permettant d'explorer de grandes bases de données.","A1, B1, B3, C3"
+D-ID,"Plateforme IA qui génère des vidéos à partir d'audio ou de texte, permettant de créer des avatars vidéo réalistes.",A3
+Craiyon,Une IA pour générer des images à partir de phrases ou mots-clés.,"A1, A3, B3"
+ControlNet,Modèle IA avancé permettant de générer des images et d'ajuster les compositions artistiques avec un haut niveau de contrôle.,C1
+ CMDJ ,"Outil de résumé automatique basé sur l'IA, permettant de condenser des informations textuelles longues en résumés concis et pertinents.","A1, A2, A3"
+ChatBase,"Un chatbot IA qui apprend de vos données, utilisant liens et PDF pour répondre aux questions",A3
+Chat Thing,"Outil d'IA conversationnelle qui permet de créer des bots personnalisés pour des tâches spécifiques, adapté à divers contextes d'utilisation.","A1, A2, A3, B1, B2, B3, C3"
+ Browse AI ,"Outil d'extraction de données automatisé basé sur l'IA, conçu pour capturer et surveiller des informations provenant de pages web.","A2, A3, C1, C3"
+Boomy,Assistant IA permettant de créer des morceaux de musique générés automatiquement à partir de simples descriptions.,C1
+ Beautiful AI ,Outil de présentation assisté par IA permettant de créer rapidement des diapositives professionnelles avec un design automatisé et optimisé.,"A2, A3"
+ Bardeen ,Outil d'automatisation basé sur l'IA qui permet de simplifier les tâches répétitives en automatisant des workflows directement à partir de votre navigateur.,C1
+ Alan AI ,Assistant vocal basé sur l'IA conçu pour intégrer des capacités conversationnelles dans des applications mobiles et web.,C1
+ AISEO ,,C1
+AI Picasso,,"A3, C1"
+AI Image Enlarger,,C1
+Adobe Firefly,"Suite d'outils créatifs propulsée par l'IA permettant de générer des images, effets et contenus artistiques à partir de descriptions textuelles.","A3, C1"
+ChatShape,Plateforme d'IA permettant de créer des bots conversationnels intelligents qui peuvent être adaptés à différents besoins spécifiques.,C1
+ Excalidraw ,Outil de dessin collaboratif en ligne permettant de créer des schémas et des croquis avec des fonctionnalités d'édition en temps réel.,"A1, A2, B1, B2, B3"
+ Zeeno ,Outil d'IA permettant de rédiger des textes créatifs et optimisés pour divers supports,C1
+ Wordtune ,"Outil d'IA qui aide à reformuler des phrases, à résumer des textes et à optimiser la rédaction","A1, A3"
+ wiseone ,"Outil d'IA conçu pour résumer des articles complexes et longs, en extrayant les informations clés.","A1, A2, A3"
+ VoiceLine ,"Outil IA pour la synthèse vocale qui transforme du texte en discours réaliste, utilisé dans les projets audio.",A3
+ uizard ,Outil d'IA pour créer des interfaces utilisateur et des prototypes rapidement à partir de simples croquis.,C1
+ text.cortex ,Outil d'IA permettant de rédiger des textes optimisés et d'interagir via un chatbot pour améliorer les contenus.,A3
+ Teddy AI ,"Assistant IA conversationnel pour les enfants, conçu pour enseigner et interagir de manière ludique et éducative.","A1, A2, B1, B3"
+StockIMG,Générateur d'images IA permettant de créer des visuels pour des projets de design et de marketing.,C1
+ Slides AI ,"Outil d'IA pour générer des présentations à partir de texte et d'idées, facilitant la création de diaporamas",A3
+ roomGPT ,Assistant IA permettant de redécorer virtuellement une pièce en fonction des préférences des utilisateurs.,C1
+ Resume Worded ,Assistant IA qui aide à optimiser les CV et les profils LinkedIn pour améliorer la visibilité professionnelle.,A1
+ RemoveBG.dev ,Service basé sur l'IA qui supprime automatiquement l'arrière-plan des images pour une utilisation simplifiée dans les projets visuels.,C1
+ Powerpresent AI ,Outil d'IA conçu pour générer des présentations PowerPoint avec des diapositives organisées et optimisées.,A3
+ Peech ,Outil IA pour éditer et créer des vidéos avec des narrations audio générées automatiquement.,A3
+ outline ,"Outil d'IA permettant de créer des structures d'articles, rédiger du contenu et résumer des informations.",A3
+ Monica ,"Assistant personnel IA pour gérer des relations et des contacts, facilitant les rappels et l'organisation.",C1
+MemeMorph,Mememorph est une plateforme IA qui transforme,C1
+ Magical AI ,Assistant IA qui aide à automatiser la rédaction de textes professionnels et personnels.,A3
+Imagen,Modèle IA développé par Google qui génère des images haute qualité à partir de descriptions textuelles détaillées.,A3
+ Huberman AI ,"Assistant conversationnel IA inspiré par le Dr Andrew Huberman, offrant des conseils de santé et bien-être basés sur des recherches scientifiques","A1, C3"
+ heyCLI ,Outil d'IA conçu pour assister les développeurs dans l'utilisation des lignes de commande en simplifiant les commandes complexes.,C1
+FineShare,"Outil IA dédié à la création, l'édition et l'amélioration de vidéos, optimisé pour la qualité et la fluidité des contenus.",C1
+Ellie,Outil IA spécialisé dans la génération automatique d'e-mails et de réponses professionnelles.,C1
+ cogram ,"Outil d'IA conçu pour capturer des discussions audio et générer des notes de manière automatique, optimisant les réunions et les collaborations.","A1, B1, B2, B3"
+ CodeSquire ,"Assistant IA pour les développeurs, aidant à écrire du code, générer des scripts, et optimiser des projets de développement.",C1
+ BlogAssistant ,"Assistant IA qui aide à la rédaction et à la gestion de contenu de blogs, en optimisant pour le SEO et la lisibilité","A3, C1"
+ BestRegards ,"Outil d'IA spécialisé dans la génération de courriels et messages professionnels, facilitant la rédaction rapide et efficace.",A2
+ Ask My Book ,Outil d'IA qui permet aux utilisateurs de poser des questions sur un livre et de recevoir des résumés interactifs basés sur son contenu,"A1, A2, A3"
+Dawn AI, Générateur d'images IA qui permet de transformer des descriptions textuelles en œuvres d'art uniques.,C1
+Bicasso,Générateur d'art basé sur l'IA qui permet de transformer des images ou des descriptions textuelles en œuvres dans un style artistique unique.,C1
+ Tabnine ,Assistant IA pour les développeurs qui suggère des lignes de code et améliore la productivité dans plusieurs langages de programmation.,C1
+ Photoleap ,"Outil d'édition d'images assisté par IA, permettant de transformer et d'améliorer les photos.",C1
+ Numerous.ai ,Outil d'IA conçu pour analyser et traiter de grandes quantités de données rapidement et efficacement.,C1
+ LangChain AI ,Cadre d'IA conçu pour la création de chaînes de langage naturel qui permettent d'automatiser des processus complexes.,C1
+ iA Writer ,"Outil d'écriture assisté par IA permettant de rédiger, résumer et organiser du contenu de manière claire et concise.",A3
+ GPTFlix ,Outil d'IA qui recommande des films et des séries en fonction des préférences des utilisateurs à travers des interactions conversationnelles.,C1
+Disco Diffusion,Outil de génération d'art IA qui utilise des modèles de diffusion pour créer des œuvres d'art uniques et surréalistes,C1
+DeepDream,Algorithme d'IA conçu pour créer des images surréalistes et artistiques à partir d'images existantes.,C1
+ ChatPDF ,Outil d'IA permettant d'interagir avec des documents PDF pour poser des questions et recevoir des résumés instantanés.,"A1, A2, A3"
+ Brave Summarizer ,Outil d'IA intégré au navigateur Brave qui résume les contenus de pages web et fournit des réponses concises aux requêtes des utilisateurs.,"A1, A2, A3"
+Wonder AI,Outil d'IA permettant de créer des œuvres d'art numériques à partir de simples descriptions textuelles.,C1
+ PhotoRoom ,Outil IA qui permet de modifier l'arrière-plan des photos et d'améliorer les visuels pour une présentation professionnelle.,C1
+ NovelAI ,"Assistant d'écriture créative basé sur l'IA, spécialisé dans la création de récits, d'histoires et de blogs.",C1
+ Jam ,Outil d'IA qui aide les équipes de développement à collaborer sur des projets en identifiant et corrigeant les bugs de code.,C1
+ Galileo ,Assistant de création UI/UX qui génère des interfaces interactives à partir de descriptions simples,C1
+ DuckAssist ,Assistant IA intégré à DuckDuckGo qui fournit des réponses rapides et précises basées sur les résultats de recherche.,C1
+Hemingway AI,Outil d'écriture assisté par IA qui aide à améliorer la lisibilité des textes en simplifiant les phrases complexes.,C1
+ Grammarly ,"Assistant d'écriture qui aide à corriger et améliorer la grammaire, la syntaxe, et la clarté des textes.",A1
+ Power Thesaurus ,"Outil d'IA fournissant des synonymes, antonymes et suggestions pour améliorer la rédaction.","A3, C1"
+ Waymo ,Entreprise d'IA spécialisée dans le développement de véhicules autonomes pour les transports urbains.,C1
+ SlidesGPT ,"Outil d'IA pour générer des présentations à partir de texte et d'idées, facilitant la création de diaporamas",A3
+ wordkraft ,Outil IA conçu pour la rédaction d'articles de blog optimisés pour le SEO et pour améliorer la qualité des textes.,C1
+ TLDR This ,,"A1, A2, A3"
+HeyFriday,Assistant d'écriture IA permettant de créer du contenu de blog optimisé et adapté aux préférences des lecteurs.,C1
+ Synthesia ,"Une IA qui permet de créer des vidéos à partir de texte. Créez des cours vidéos, tutoriels et vidéos",A3
+ Poe ,"Chatbot développé par Quora, conçu pour répondre à des questions complexes en utilisant plusieurs modèles d'IA.","A1, A2, A3, C3"
+ Type.AI ,"Assistant IA pour la rédaction de contenu, le résumé d'articles et l'optimisation des textes pour les blogs et publications en ligne","A3, C1"
+ Gladia ,"Plateforme d'IA pour le traitement de l'audio, permettant d'analyser et de transformer des fichiers audio en informations exploitables.",C1
+ Spotify AI DJ ,Assistant IA intégré à Spotify qui crée des listes de lecture personnalisées en fonction des préférences musicales de l'utilisateur.,C1
+Let's Enhance,Outil d'IA pour améliorer la résolution et la qualité des images tout en préservant les détails.,C1
+ Bing AI ,Chatbot développé par Microsoft qui combine des capacités de recherche et des réponses conversationnelles basées sur l'intelligence artificielle.,"A1, A3"
+ Hugging Face ,Plateforme open-source d'outils IA et de modèles de machine learning pour la recherche et le développement,C1
+ GPT-3 (OpenAI Playground) ,"Plateforme interactive permettant d'utiliser GPT-3 pour générer du texte, répondre à des questions et interagir avec un chatbot.",C1
+Stable Diffusion,,A3
+DALL·E,"Modèle d'IA générant des images à partir de descriptions textuelles, facilitant la créativité et l'illustration visuelle.",A3
+ Paraphraser AI ,Outil d'IA pour reformuler et résumer des textes afin de rendre les informations plus claires et concises.,A3
+ Notion AI ,"Assistant IA intégré à Notion qui aide à rédiger, résumer et organiser des idées et des tâches.","A1, A2, A3, B1, B3, C1"
+ Yaara ,Rédigez rapidement du contenu convaincant et rentable grâce à l'IA pour augmenter les,C1
+ Google Bard ,Assistant conversationnel IA de Google conçu pour répondre à des questions complexes en utilisant des modèles avancés de traitement du langage naturel.,"A1, A3, B1, B2, B3"
+Dream by WOMBO,Outil de génération d'art basé sur l'IA permettant de créer des œuvres uniques à partir de descriptions textuelles.,C1
+ Copilot ,Le “chatGPT” de microsoft,"A1, A3, B1, B2, B3"
+Nolej IA,Aide à la conception pédagogique dynamique et interactive à partir d’un texte statique grâce à l’IA,A3
+SMART ENSEIGNO,évalue les élèves et propose des parcours personnalisés,C2
+MATHIA,évalue les élèves et propose des parcours personnalisés,A1
+ADAPTIV’MATH,évalue les élèves et propose des parcours personnalisés,"A1, A2"
+DoNotPay ,"DoNotPay, premier avocat-robot, offre des conseils juridiques via IA (en anglais).",C1
+MusicLM, L'IA de Google pour générer de la musique à partir de prompts.,C1
+Mubert ,"Crée des bandes-son sur mesure grâce à l'IA, s'adaptant à l'humeur et au tempo pour divers",C1
+SheetAI,Permet de créer des Google Sheets et updater des tableaux en tapant simplement ce dont vous avez,"A1, B3, C1"
+SpeakAI ,"Une IA qui transforme n'importe quoi (URLs, vidéos, photos, textes...) en data et en insight.","A1, A2, A3"
+AdCreative ,Une plateforme qui vous permet de générer des visuels publicitaires grâce à l'intelligence artificielle.,C1
+HoppyCopy ,HoppyCopy permet d'écrire des emails convaincants 10 fois plus vite grâce à l'intelligence,C1
+ContentBot ,"Une intelligence artificielle qui rédige du contenu pour votre blog, vos campagnes marketing ou vos",C1
+GoMoonBeam ,"GoMoonBeam est un assistant IA pour rédiger sans partir de zéro, aidant à créer articles, blogs et",C1
+Stealth GPT ,Une IA conversationnelle qui vous garantie qu'elle écrit comme un humain et n'est pas détectable.,A3
+Rytr ,"Une IA pour vous aider à rédiger des textes pour tous vos projets (articles, bio, publicités, etc.)","A1, A3"
+Content Idea Generator ,Un générateur de titres pour vos articles. Entrez le sujet principal et l'outil vous propose ensuite des,C1
+ Spinbot ,Une intelligence artificielle qui permet de retravailler vos textes (en anglais).,A1
+IdeasAI ,"Une plateforme qui génère, via une IA, des idées de start-up. Vous pouvez les liker ou non comme sur",C1
+This Person Does Not ,Un site qui génère via une intelligence artificielle des visages humains (rafraîchir la page pour,"A3, B1, B2"
+Face Generator,Une intelligence artificielle pour créer des visages sans identité pour vos projets.,A3
+Leonardo.AI ,"Leonardo.ai crée des éléments de jeux via IA, comme des objets, environnements et art",C1
+Image Upscaler,"Outil d'IA permettant d'agrandir des images tout en préservant les détails, optimisé pour une utilisation professionnelle.",C1
+Photosonic,,"A3, B3"
+Morise AI ,Morise AI facilite la création de titres et vidéos virales en étudiant vos anciens contenus grâce à,"A1, A3"
+Pictory ,,A3
+Synthesia ,,A3
+Looka ,"Looka est un outil IA pour concevoir des logos et créer une identité de marque rapidement,",C1
+GPTZero ,"GPTZero est un modèle de classification détectant si un texte est écrit par une IA ou un humain, offrant","A1, C2"
+LearningPrompting,"Une formation open source pour apprendre à communiquer avec l'IA, combinant cours vidéo et",C3
+GPTAnywhere ,Une extension Google Chrome qui permet d'utiliser ChatGPT où vous voulez sur votre navigateur et,A1
+Mixo,"Mixo, générateur de sites web par IA, permet de lancer et développer des startups en quelques secondes sans coder.","A3, C1"
+DeepL,Outil de traduction IA offrant des traductions précises et contextuelles entre plusieurs langues,A1
